@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Avi Vaid</title>
+    <link>http://avaid96.github.io/post/index.xml</link>
+    <description>Recent content in Posts on Avi Vaid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Aug 2017 14:30:39 -0700</lastBuildDate>
+    <atom:link href="http://avaid96.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using Behavioral Economics To Design Products</title>
+      <link>http://avaid96.github.io/2017/08/using-behavioral-economics-to-design-products/</link>
+      <pubDate>Sun, 20 Aug 2017 14:30:39 -0700</pubDate>
+      
+      <guid>http://avaid96.github.io/2017/08/using-behavioral-economics-to-design-products/</guid>
+      <description>
+
+&lt;h1 id=&#34;this-is-an-assignment-i-wrote-for-a-class-where-we-were-supposed-to-use-behavioral-economics-learnings-and-research-motivations-to-design-a-product-it-provides-interesting-insights-into-some-behavioral-economics-theories-and-how-they-may-be-used&#34;&gt;This is an assignment I wrote for a class where we were supposed to use behavioral economics learnings and research motivations to design a product. It provides interesting insights into some behavioral economics theories and how they may be used&lt;/h1&gt;
+
+&lt;p&gt;Human beings are flawed. Behavioral Economics is full of powerful observations and theories which can motivate behavior and nudge these flawed people in the right direction. We, at Behavioral Economics Inc. identify flawed actions and introduce products to try to correct them. This month, we’ve decided to focus on self-control and its associated neuroscience. This report will detail our critique of the area, as well as, how we plan to improve it using our new product.
+In the famous marshmallow experiment, Walter Mischel found that children who were able to resist a marshmallow tended to have better life outcomes in terms of metrics such as SAT scores, educational attainment and BMI. We firmly believe that building up a willpower muscle that can help you push through the hurdles of life is very important. Self-control can help you say no to things that aren’t good for you but may seem tempting, it may also help you to say yes to things that may be annoying to do now but will be good for you in the long run. Our team believes that work done in the area of self-control and the associated neuroscience is fascinating and can inspire people’s lives in a significant way.
+When we were digging into this area, we found it strange that often despite knowing exactly what is good for us, we don’t do it. For example, most people seem to be aware that exercise is good for you. To a rational person, if they knew that exercise was good for them, they’d attempt to make the time to put on some running shoes. But, this is not what we observe. Despite numerous, well-known findings about the mental and physical gains from exercise, we often find surveys with findings that say that people think they’re too busy for exercise (Exercise surveys). More strangely, sometimes people plan to exercise but when the time comes, end up postponing it. We wonder why people behave in this flawed manner and our team thinks that research into this flaw and possible nudges in the right direction will help us make a large impact on their lives.
+To test out our theories, we’d like to build a product. A product that gets users to do something that is good for them in the long term but may be annoying to do in the moment. Neuroscientists have discovered that when you ask the brain to meditate, it improves a wide range of self-control skills, including attention, focus, stress management, impulse control, and self-awareness (McGonigal, Page 29). Even five minutes of meditation a day could have a large impact. But, in the moment, it is really difficult to do since there are just so many temptations to do something else. So, meditation fits the bill for an activity we want our product to impact. We’d like to build a meditation app to test out our theory that tries to get people to actually meditate.
+So, what is this theory that our team wants to test out? It’s pretty simple. We’d like to use triggers and rewards to get people to meditate. Similar to Laibson’s golden eggs theory, we believe that while thinking about the future we may plan an action, but we don’t undertake it when the time comes. It is easier to chart out meditation in our schedule than it is to actually do it when the time comes. Why? Recall that when our hot system is in action, we have almost no control over our long run selves (Mischel). When the time actually comes to meditate, other temptations trigger our hot system which draws us away from meditation and we behave in a time inconsistent manner.
+What we propose is designing triggers from the meditation app to recreate the effect that temptations have on the hot system, effectively piloting it towards meditation. We’d start by letting the user choose when their ideal meditation time is. At those times, we send them notifications that say something like “it’s time to meditate”. But, this is just a reminder. To really grab the attention of the hot system, the action the trigger requests should be one which delivers immediate reward. Meditation unfortunately isn’t one of these actions and this is why despite a simple calendar reminder, we may put it off. Thus, we would like to introduce the concept of streaks – the total number of consecutive days that you successfully meditate. To make this streak valuable, we’d display it to other friends who use the app, introducing a social competition aspect. The user’s reward for taking the trigger will be building up this streak. Note, with a slight aside on prospect theory, the real reward will be not losing the current streak. Another aside on psycho-marketing tells us that humans love novelty as long as it doesn’t destroy familiarity. So, we propose having new meditation rhythms everyday (new breathing patterns, new background music, etc.).
+We think that this alone will be enough to translate the user’s planned activities into actions usually, however there may always arise situations where you won’t be able to do that action due to constraints. As we learnt, the best way to hold us to our actions is to draw up a full contingency plan when we plan our activity. So, we propose that while the user selects the optimal time – they also draw up a contingency plan as to how triggers will be fashioned (custom snooze buttons) such that they complete the action by the end of the day. Moreover, the more that people meditate, the more powerful this effect will be.
+To conclude, when we looked into the research on self-control and willpower, we found much research on what activities are good for us and ways to get ourselves to do these activities. However, when we look around, we hardly see people implement them in their daily lives! This seems to largely be because these activities are annoying in the short term even though they deliver long term reward. With our meditation app, we aim to solve exactly this issue. We’ll be able to help people’s long run selves plan these activities in their daily lives and ensure that their short run selves don’t shy away from them. Lastly, even if the theory we suggest isn’t the perfect way to get people to do these actions, Behavioral Economics Inc. will create a valuable asset in terms of a user-base from whom we can learn, iterate and develop better theories regarding self-control.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building Habit Forming Products</title>
+      <link>http://avaid96.github.io/2017/08/building-habit-forming-products/</link>
+      <pubDate>Sun, 20 Aug 2017 14:19:35 -0700</pubDate>
+      
+      <guid>http://avaid96.github.io/2017/08/building-habit-forming-products/</guid>
+      <description>&lt;p&gt;A literature review of how applications use behavioral economics and psychology to get you Hooked and what we could learn from them to build a habit forming application of our own&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://avaid96.com/habit-apps.pdf&#34;&gt;Click here for the paper&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Systems Lessons</title>
+      <link>http://avaid96.github.io/2016/12/systems-lessons/</link>
+      <pubDate>Tue, 06 Dec 2016 09:47:32 -0600</pubDate>
+      
+      <guid>http://avaid96.github.io/2016/12/systems-lessons/</guid>
+      <description>&lt;p&gt;Life lessons from a class in computer systems:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Caches - keep those who matter close&lt;/li&gt;
+&lt;li&gt;Spatial locality and strides - don&amp;rsquo;t try to move further ahead than what&amp;rsquo;s good for you&lt;/li&gt;
+&lt;li&gt;Buffer overflow - be mindful of all the information you receive&lt;/li&gt;
+&lt;li&gt;Freeing memory - remember to free your mind of worries that are unneccesary&lt;/li&gt;
+&lt;li&gt;Virtual memory - fight your limits with the resources that you have&lt;/li&gt;
+&lt;li&gt;Binary bomb reverse engineering - you just have to ask the right questions&lt;/li&gt;
+&lt;li&gt;Different machines (little/big endian or &lt;sup&gt;64&lt;/sup&gt;&amp;frasl;&lt;sub&gt;32&lt;/sub&gt; bit) - Different people may interpret the same information differently and you should be mindful of that&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And to conclude what I think is the biggest lesson:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;When/If you&amp;rsquo;re working at the higher levels, don&amp;rsquo;t EVER forget the (processes) people at the lower
+level who make it possible for you to do what you do&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you want to add to the list or request an edit, please &lt;a href=&#34;mailto:avaid1996@gmail.com?Subject=I%20saw%20your%20systems-lessons%3A%20&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

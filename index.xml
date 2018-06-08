@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avi Vaid</title>
+    <link>http://avaid96.github.io/index.xml</link>
+    <description>Recent content on Avi Vaid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Aug 2017 14:30:39 -0700</lastBuildDate>
+    <atom:link href="http://avaid96.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using Behavioral Economics To Design Products</title>
+      <link>http://avaid96.github.io/2017/08/using-behavioral-economics-to-design-products/</link>
+      <pubDate>Sun, 20 Aug 2017 14:30:39 -0700</pubDate>
+      
+      <guid>http://avaid96.github.io/2017/08/using-behavioral-economics-to-design-products/</guid>
+      <description>
+
+&lt;h1 id=&#34;this-is-an-assignment-i-wrote-for-a-class-where-we-were-supposed-to-use-behavioral-economics-learnings-and-research-motivations-to-design-a-product-it-provides-interesting-insights-into-some-behavioral-economics-theories-and-how-they-may-be-used&#34;&gt;This is an assignment I wrote for a class where we were supposed to use behavioral economics learnings and research motivations to design a product. It provides interesting insights into some behavioral economics theories and how they may be used&lt;/h1&gt;
+
+&lt;p&gt;Human beings are flawed. Behavioral Economics is full of powerful observations and theories which can motivate behavior and nudge these flawed people in the right direction. We, at Behavioral Economics Inc. identify flawed actions and introduce products to try to correct them. This month, we’ve decided to focus on self-control and its associated neuroscience. This report will detail our critique of the area, as well as, how we plan to improve it using our new product.
+In the famous marshmallow experiment, Walter Mischel found that children who were able to resist a marshmallow tended to have better life outcomes in terms of metrics such as SAT scores, educational attainment and BMI. We firmly believe that building up a willpower muscle that can help you push through the hurdles of life is very important. Self-control can help you say no to things that aren’t good for you but may seem tempting, it may also help you to say yes to things that may be annoying to do now but will be good for you in the long run. Our team believes that work done in the area of self-control and the associated neuroscience is fascinating and can inspire people’s lives in a significant way.
+When we were digging into this area, we found it strange that often despite knowing exactly what is good for us, we don’t do it. For example, most people seem to be aware that exercise is good for you. To a rational person, if they knew that exercise was good for them, they’d attempt to make the time to put on some running shoes. But, this is not what we observe. Despite numerous, well-known findings about the mental and physical gains from exercise, we often find surveys with findings that say that people think they’re too busy for exercise (Exercise surveys). More strangely, sometimes people plan to exercise but when the time comes, end up postponing it. We wonder why people behave in this flawed manner and our team thinks that research into this flaw and possible nudges in the right direction will help us make a large impact on their lives.
+To test out our theories, we’d like to build a product. A product that gets users to do something that is good for them in the long term but may be annoying to do in the moment. Neuroscientists have discovered that when you ask the brain to meditate, it improves a wide range of self-control skills, including attention, focus, stress management, impulse control, and self-awareness (McGonigal, Page 29). Even five minutes of meditation a day could have a large impact. But, in the moment, it is really difficult to do since there are just so many temptations to do something else. So, meditation fits the bill for an activity we want our product to impact. We’d like to build a meditation app to test out our theory that tries to get people to actually meditate.
+So, what is this theory that our team wants to test out? It’s pretty simple. We’d like to use triggers and rewards to get people to meditate. Similar to Laibson’s golden eggs theory, we believe that while thinking about the future we may plan an action, but we don’t undertake it when the time comes. It is easier to chart out meditation in our schedule than it is to actually do it when the time comes. Why? Recall that when our hot system is in action, we have almost no control over our long run selves (Mischel). When the time actually comes to meditate, other temptations trigger our hot system which draws us away from meditation and we behave in a time inconsistent manner.
+What we propose is designing triggers from the meditation app to recreate the effect that temptations have on the hot system, effectively piloting it towards meditation. We’d start by letting the user choose when their ideal meditation time is. At those times, we send them notifications that say something like “it’s time to meditate”. But, this is just a reminder. To really grab the attention of the hot system, the action the trigger requests should be one which delivers immediate reward. Meditation unfortunately isn’t one of these actions and this is why despite a simple calendar reminder, we may put it off. Thus, we would like to introduce the concept of streaks – the total number of consecutive days that you successfully meditate. To make this streak valuable, we’d display it to other friends who use the app, introducing a social competition aspect. The user’s reward for taking the trigger will be building up this streak. Note, with a slight aside on prospect theory, the real reward will be not losing the current streak. Another aside on psycho-marketing tells us that humans love novelty as long as it doesn’t destroy familiarity. So, we propose having new meditation rhythms everyday (new breathing patterns, new background music, etc.).
+We think that this alone will be enough to translate the user’s planned activities into actions usually, however there may always arise situations where you won’t be able to do that action due to constraints. As we learnt, the best way to hold us to our actions is to draw up a full contingency plan when we plan our activity. So, we propose that while the user selects the optimal time – they also draw up a contingency plan as to how triggers will be fashioned (custom snooze buttons) such that they complete the action by the end of the day. Moreover, the more that people meditate, the more powerful this effect will be.
+To conclude, when we looked into the research on self-control and willpower, we found much research on what activities are good for us and ways to get ourselves to do these activities. However, when we look around, we hardly see people implement them in their daily lives! This seems to largely be because these activities are annoying in the short term even though they deliver long term reward. With our meditation app, we aim to solve exactly this issue. We’ll be able to help people’s long run selves plan these activities in their daily lives and ensure that their short run selves don’t shy away from them. Lastly, even if the theory we suggest isn’t the perfect way to get people to do these actions, Behavioral Economics Inc. will create a valuable asset in terms of a user-base from whom we can learn, iterate and develop better theories regarding self-control.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building Habit Forming Products</title>
+      <link>http://avaid96.github.io/2017/08/building-habit-forming-products/</link>
+      <pubDate>Sun, 20 Aug 2017 14:19:35 -0700</pubDate>
+      
+      <guid>http://avaid96.github.io/2017/08/building-habit-forming-products/</guid>
+      <description>&lt;p&gt;A literature review of how applications use behavioral economics and psychology to get you Hooked and what we could learn from them to build a habit forming application of our own&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://avaid96.com/habit-apps.pdf&#34;&gt;Click here for the paper&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>principles</title>
+      <link>http://avaid96.github.io/principles/</link>
+      <pubDate>Thu, 16 Mar 2017 23:41:46 -0500</pubDate>
+      
+      <guid>http://avaid96.github.io/principles/</guid>
+      <description>
+
+&lt;h3 id=&#34;reflections&#34;&gt;Reflections&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Worrying only makes you struggle twice&lt;/li&gt;
+&lt;li&gt;Understand the opportunities and obligations of power&lt;/li&gt;
+&lt;li&gt;Focus on relationships, not networking (David Rockefeller)
+
+&lt;ul&gt;
+&lt;li&gt;remember what people tell you and ask them about it next time&lt;/li&gt;
+&lt;li&gt;don&amp;rsquo;t look for something out of an interaction&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Pressure is not stress. But the former is converted to the latter when you add one ingredient: rumination, the tendency to keep rethinking past or future events, while attaching negative emotion to those thoughts.&lt;/li&gt;
+&lt;li&gt;Listen instead of focusing on questioning in an argument - try to get the best outcome not prove yourself&lt;/li&gt;
+&lt;li&gt;Enjoy the present but care for your future self&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://m.economictimes.com/news/politics-and-nation/billionaire-sends-son-to-hyderabad-to-face-lifes-struggles/real-life-internship/slideshow/60208598.cms&#34;&gt;http://m.economictimes.com/news/politics-and-nation/billionaire-sends-son-to-hyderabad-to-face-lifes-struggles/real-life-internship/slideshow/60208598.cms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Simple living, high thinking&lt;/li&gt;
+&lt;li&gt;Not what you don&amp;rsquo;t know that gets you in trouble but what you know that just ain&amp;rsquo;t so (Twain)&lt;/li&gt;
+&lt;li&gt;Just because you are doing a lot doesn&amp;rsquo;t mean you&amp;rsquo;re getting a lot done&lt;/li&gt;
+&lt;li&gt;Not all who wander are lost&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;It is very dangerous when you don&amp;rsquo;t know what you want&amp;hellip; but you know what is expected of you. I&amp;rsquo;ve had enough of doing the latter.&amp;rdquo;
+Since then I&amp;rsquo;ve always asked myself: am I doing what I want&amp;hellip; or what is expected of me&lt;/li&gt;
+&lt;li&gt;Even your shadow leaves you in the darkness&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.potw.org/archive/potw232.html&#34;&gt;http://www.potw.org/archive/potw232.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;There is only one thing that makes a dream impossible to achieve: the fear of failure. (Alchemist)&lt;/li&gt;
+&lt;li&gt;Never test the depth of the water with both feet&lt;/li&gt;
+&lt;li&gt;When something bad happens, you have 3 choices, let it define/destroy/strengthen you.&lt;/li&gt;
+&lt;li&gt;The greeks has two meanings for &amp;lsquo;utopia&amp;rsquo;. &amp;lsquo;Uo-Topos&amp;rsquo; = Good Place and &amp;lsquo;Ou-Topos&amp;rsquo; = Place that you cannot be&lt;/li&gt;
+&lt;li&gt;Everybody wants to go to heaven but nobody wants to die - US Navy Seals&lt;/li&gt;
+&lt;li&gt;Keep people&amp;rsquo;s bellies full and balls empty&lt;/li&gt;
+&lt;li&gt;The way I think about it, luck is like a bernoulli random variable and p is a function of hard work&lt;/li&gt;
+&lt;li&gt;You will always be too much of something for someone: Too big, Too loud, Too edgy. If you round out your edges, You Lose Your Edge&lt;/li&gt;
+&lt;li&gt;If you are willing to do only whats easy, life will be hard. But if you are going to do whats hard, life will be easy.&lt;/li&gt;
+&lt;li&gt;Any sufficiently advanced technology is indistinguishable from magic - Arthur Clarke&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;sapiens&#34;&gt;Sapiens&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Family and community are replaced by state and market&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;art-of-war&#34;&gt;Art of war&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;When you plunder a countryside, let the spoil be divided amongst your men; when you capture new territory, cut it up into allotments for the benefit of the soldiery.&lt;/li&gt;
+&lt;li&gt;When you surround an army, leave an outlet free. Don&amp;rsquo;t press a desperate foe too hard.&lt;/li&gt;
+&lt;li&gt;If your opponent is of choleric temper, seek to irritate him. Pretend to be weak, that he may grow arrogant.&lt;/li&gt;
+&lt;li&gt;There is no instance of a country having benefited from prolonged warfare.&lt;/li&gt;
+&lt;li&gt;He will win who
+
+&lt;ul&gt;
+&lt;li&gt;knows when to fight and when not to fight&lt;/li&gt;
+&lt;li&gt;knows how to handle both superior and inferior forces.&lt;/li&gt;
+&lt;li&gt;army is animated by the same spirit throughout all its ranks.&lt;/li&gt;
+&lt;li&gt;prepared himself, waits to take the enemy unprepared.&lt;/li&gt;
+&lt;li&gt;has military capacity and is not interfered with by the sovereign.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Thus the good fighter is able to secure himself against defeat, but cannot make certain of defeating the enemy.&lt;/li&gt;
+&lt;li&gt;Thus it is that in war the victorious strategist only seeks battle after the victory has been won, whereas he who is destined to defeat first fights and afterwards looks for victory.&lt;/li&gt;
+&lt;li&gt;When in difficult country, do not encamp. In country where high roads intersect, join hands with your allies. Do not linger in dangerously isolated positions.&lt;/li&gt;
+&lt;li&gt;We shall be unable to turn natural advantage to account unless we make use of local guides.&lt;/li&gt;
+&lt;li&gt;Too frequent rewards signify that the enemy is at the end of his resources; too many punishments betray a condition of dire distress.&lt;/li&gt;
+&lt;li&gt;Confront your soldiers with the deed itself; never let them know your design.&lt;/li&gt;
+&lt;li&gt;Move not unless you see an advantage; use not your troops unless there is something to be gained; fight not unless the position is critical. No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique.&lt;/li&gt;
+&lt;li&gt;But a kingdom that has once been destroyed can never come again into being; nor can the dead ever be brought back to life.&lt;/li&gt;
+&lt;li&gt;In a war, the greatest victory is one that requires no battle.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;siddhartha&#34;&gt;Siddhartha&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;You can&amp;rsquo;t learn some things from other people but rather have to learn them by working hard yourself (the
+age old tale of the caterpillar and the cocoon)&lt;/li&gt;
+&lt;li&gt;You need to be patient and willing to wait - waiting is a skill&lt;/li&gt;
+&lt;li&gt;There is something to learn from everything&lt;/li&gt;
+&lt;li&gt;Not mine to judge another&amp;rsquo;s life - it is purely me that I should evaluate&lt;/li&gt;
+&lt;li&gt;When someone seeks; said Siddhartha, then it easily happens that his eyes see only the thing that he seeks, and he is able to find nothing, to take in nothing because he always thinks only about the thing he is seeking, because he has one goal, because he is obsessed with his goal. Seeking means: having a goal. But finding means: being free, being open, having no goal.&lt;/li&gt;
+&lt;li&gt;We are not going in circles, we are going upwards. The path is a spiral; we have already climbed many steps&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.businessinsider.com/why-tim-ferriss-considers-the-novel-siddhartha-an-important-book-2016-12&#34;&gt;http://www.businessinsider.com/why-tim-ferriss-considers-the-novel-siddhartha-an-important-book-2016-12&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;billions&#34;&gt;Billions&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;when allowing a competitor to look at his trades. &amp;ldquo;Lots of guys watch bruce lee movies, doesn&amp;rsquo;t mean you can do karate&amp;rdquo; - Axe&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;ray-dalio&#34;&gt;Ray Dalio&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Decide what to do and &lt;em&gt;have the courage to do it&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Success is not a matter attaining one&amp;rsquo;s goals, it is the struggle of evolution towards attaining them&lt;/li&gt;
+&lt;li&gt;Pain + reflection = progress and meditation is invaluable&lt;/li&gt;
+&lt;li&gt;1) know your goals and run after them 2) encounter problems in the way of getting to goals 3) diagnoze these problems to identify their root causes 4) design plan to eliminate them 5) execute those designs&lt;/li&gt;
+&lt;li&gt;First identify event type, then identify its behavior and outcomes, then tackle it&lt;/li&gt;
+&lt;li&gt;To get the most out of life, you have to take more risk. Have to balance risk and reward&lt;/li&gt;
+&lt;li&gt;Our ego and blind spot barriers are the biggest ones we need to deal with. Be radically open minded&lt;/li&gt;
+&lt;li&gt;We like to believe our own opinions because we like to be right more than we like knowing what&amp;rsquo;s true&lt;/li&gt;
+&lt;li&gt;Nobody alone can fully appreciate reality&lt;/li&gt;
+&lt;li&gt;Replace the joy of being proven right with the joy of knowing what&amp;rsquo;s true. Find the most thoughtful people who disagree with you. Point out the things you&amp;rsquo;d individually miss&lt;/li&gt;
+&lt;li&gt;See beyond yourself and want others to be successful as well&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>library</title>
+      <link>http://avaid96.github.io/library/</link>
+      <pubDate>Thu, 16 Mar 2017 11:37:23 -0500</pubDate>
+      
+      <guid>http://avaid96.github.io/library/</guid>
+      <description>
+
+&lt;p&gt;Exceptional books&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Siddhartha - Hermann Hesse&lt;/li&gt;
+&lt;li&gt;Ascent of money - Nial Ferguson&lt;/li&gt;
+&lt;li&gt;ThinkTwice - Michael Mauboussin&lt;/li&gt;
+&lt;li&gt;One up on wall street - Peter Lynch&lt;/li&gt;
+&lt;li&gt;Open - Andre Agassi&lt;/li&gt;
+&lt;li&gt;Art of war - Sun Tzu&lt;/li&gt;
+&lt;li&gt;Thinking fast and slow&lt;/li&gt;
+&lt;li&gt;The Mother Tongue&lt;/li&gt;
+&lt;li&gt;Influence&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;reading-list&#34;&gt;Reading list&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Innovator&amp;rsquo;s dilemma&lt;/li&gt;
+&lt;li&gt;design of everyday things&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Systems Lessons</title>
+      <link>http://avaid96.github.io/2016/12/systems-lessons/</link>
+      <pubDate>Tue, 06 Dec 2016 09:47:32 -0600</pubDate>
+      
+      <guid>http://avaid96.github.io/2016/12/systems-lessons/</guid>
+      <description>&lt;p&gt;Life lessons from a class in computer systems:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Caches - keep those who matter close&lt;/li&gt;
+&lt;li&gt;Spatial locality and strides - don&amp;rsquo;t try to move further ahead than what&amp;rsquo;s good for you&lt;/li&gt;
+&lt;li&gt;Buffer overflow - be mindful of all the information you receive&lt;/li&gt;
+&lt;li&gt;Freeing memory - remember to free your mind of worries that are unneccesary&lt;/li&gt;
+&lt;li&gt;Virtual memory - fight your limits with the resources that you have&lt;/li&gt;
+&lt;li&gt;Binary bomb reverse engineering - you just have to ask the right questions&lt;/li&gt;
+&lt;li&gt;Different machines (little/big endian or &lt;sup&gt;64&lt;/sup&gt;&amp;frasl;&lt;sub&gt;32&lt;/sub&gt; bit) - Different people may interpret the same information differently and you should be mindful of that&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And to conclude what I think is the biggest lesson:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;When/If you&amp;rsquo;re working at the higher levels, don&amp;rsquo;t EVER forget the (processes) people at the lower
+level who make it possible for you to do what you do&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you want to add to the list or request an edit, please &lt;a href=&#34;mailto:avaid1996@gmail.com?Subject=I%20saw%20your%20systems-lessons%3A%20&#34;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://avaid96.github.io/about/</link>
+      <pubDate>Thu, 03 Nov 2016 23:38:42 -0500</pubDate>
+      
+      <guid>http://avaid96.github.io/about/</guid>
+      <description>&lt;p&gt;I am a current senior at Northwestern University. I love learning, creating things and seeing new places and meeting new people.
+I&amp;rsquo;m aiming to write about things that I learn, things that I create and just random thoughts and experiences.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://avatars3.githubusercontent.com/u/9308841?v=3&amp;s=466&#34; width=&#34;300&#34; align=&#34;middle&#34;&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Funny story, I first got into computer science because it was the only A/C classroom at my school.
+Escaping the Mumbai heat, I found myself enjoying the logical way computer scientists think and building tangible products that could solve problems.
+I&amp;rsquo;ve come a long way since then but not much has changed with respect to my curiousity, passion and excitement for learning new things, thinking,
+solving hard problems and showing off about something I&amp;rsquo;ve built. Besides my passion for technology, I am keenly interested in studying people&amp;rsquo;s
+choices through Economics and identifying opportunities using my financial skill set. I have a strongly
+entrepreneurial mindset and a passion for building things to solve problems. To know more about my education, experiences and projects:
+feel free to look at my &lt;a href=&#34;http://avaid96.github.io/cv.pdf&#34;&gt;CV&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any interesting work that you think I&amp;rsquo;d like, feel free to &lt;a href=&#34;mailto:avaid1996@gmail.com?Subject=I%20was%20on%20your%20blog%3A%20&#34;&gt;contact me&lt;/a&gt;. I am particularly interested in positions in product management&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
